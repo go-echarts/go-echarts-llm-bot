@@ -4,21 +4,24 @@
 
 <h1 align="center">go-echarts-llm-bot</h1>
 <p align="center">
-    <em> * The localized QA chat bot for go-echarts.</em>
+    <em> The localized QA Chatbot for go-echarts.</em>
 </p>
 
 
-The `go-echarts-llm-bot` is powered by the [`LangChain`](https://github.com/langchain-ai/langchain)
-which benefit to develop applications powered by language models easily.   
-And the OpenAI of `Azure`, see more details
+The `go-echarts-llm-bot` depends on the [`LangChain`](https://github.com/langchain-ai/langchain)
+which help to develop LLM applications easily.  
+The Chatbot GUI is powered by [Gradio](https://github.com/gradio-app/gradio).   
+The underlying OpenAI service is `AzureOpenAI`, see more details
 in [Azure AI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service).
 
 ---
+Any issue in go-echarts? Call `12345` (the localized Chatbot GUI server port) for help! :telephone_receiver:
+
 ![go-echarts-bot-gif](https://github.com/go-echarts/go-echarts-llm-bot/assets/33706142/24221c4c-db6c-490b-a329-03f77cae4111)
 
 ## Install
 
-> Python v3.11.8 is used in develop, I recommend using the same version to avoid dependency issue.
+> Python v3.11.8 is used, I recommend using the same version to avoid dependency issue.
 
 **Install dependencies**
 
