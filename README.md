@@ -13,15 +13,12 @@ which benefit to develop applications powered by language models easily.
 And the OpenAI of `Azure`, see more details
 in [Azure AI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service).
 
-> Showcase
-
-
-https://github.com/go-echarts/go-echarts-llm-bot/assets/33706142/0ee84527-af95-456d-81cc-7e10320b5552
-
+---
+![go-echarts-bot-gif](https://github.com/go-echarts/go-echarts-llm-bot/assets/33706142/24221c4c-db6c-490b-a329-03f77cae4111)
 
 ## Install
 
-> Python v3.11.8 used in dev, it recommends to the same version to avoid dependency issue.
+> Python v3.11.8 is used in develop, I recommend using the same version to avoid dependency issue.
 
 **Install dependencies**
 
