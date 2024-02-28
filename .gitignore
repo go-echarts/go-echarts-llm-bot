@@ -1,0 +1,5 @@
+/.env
+/repo/examples/
+/repo/go-echarts/
+.idea
+venv
