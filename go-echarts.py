@@ -1,8 +1,8 @@
 import os
 import gradio as gr
 from dotenv import load_dotenv
-from langchain_community.chat_models import AzureChatOpenAI
-from langchain_community.embeddings import AzureOpenAIEmbeddings
+from langchain_openai import AzureChatOpenAI
+from langchain_openai import AzureOpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import GitLoader
 from langchain.chains import RetrievalQA
